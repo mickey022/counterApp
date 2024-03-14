@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(./istockphoto-1428402283-170667a.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+
+}
+
+#increment-btn {
+    background: darkred;
+ margin-left: 25%;
+}
+
+#save-btn {
+    background: darkgreen;
+    margin-left: 25%;
+}
